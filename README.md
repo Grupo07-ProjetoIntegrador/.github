@@ -34,3 +34,7 @@ Todo o código-fonte funcional do ecossistema, incluindo o frontend em React, o 
 Acesse a lista completa de repositórios do projeto através do link abaixo:
 
 🔗 **[Organização GitHub - Grupo 07 Projeto Integrador](https://github.com/orgs/Grupo07-ProjetoIntegrador/repositories)**
+
+## Deploy do Protótipo na Web
+
+**[JP Mall Flamboyant](https://jpmallflamboyant.live/)**
